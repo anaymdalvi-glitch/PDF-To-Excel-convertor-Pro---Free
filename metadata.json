@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Excel Converter",
+  "description": "An intelligent PDF to Excel converter powered by Gemini. Upload a PDF file (up to 50MB) and convert it into a well-formatted Excel spreadsheet while preserving data structure and layout.",
+  "requestFramePermissions": []
+}
